@@ -1,6 +1,7 @@
 # Solitaire-Game
 Game that involves both Solitaire and the Fibonacci Sequence
 
+
 Here are the rules:
 1) Take the top card from the deck and place it face up on the table.
 2) The Sum is now the value of that card (Ace = 1, 2 = 2, … 10 = 10, Jack = 10, Queen = 10, King = 10)
@@ -51,4 +52,6 @@ Shuffle Deck will randomly shuffle all cards in the deck.
 Play Fibo Solitaire will play the game 
 Win Fibo Solitaire will automatically continue to play until the person wins and also keep track of how many games were play to get the win
 Exit will exit the program.
+
+
 
